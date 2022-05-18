@@ -2,7 +2,7 @@
  * @Author: 张帮辉
  * @LastEditors: 张帮辉
  * @Date: 2022-05-17 20:59:19
- * @LastEditTime: 2022-05-18 09:04:47
+ * @LastEditTime: 2022-05-18 23:13:07
  * @Description: file content
  */
 /**
@@ -67,4 +67,36 @@ export default [
   { keyword: 'bandage', translation: 'n. 绷带' },
   { keyword: 'specialty', translation: 'n. 专长；特点' },
   { keyword: 'proposal', translation: 'n. 建议；提议；求婚' },
+
+  /* 第二天 */
+  { keyword: 'church', translation: 'n. 教堂' },
+  { keyword: 'could', translation: 'aux. 可以' },
+  { keyword: 'manifest', translation: 'v. 使显现 adj. 显然的' },
+  { keyword: 'touch', translation: 'v. 触摸 n. 接触' },
+  { keyword: 'aesthetic', translation: 'adj. 美学的，审美的 n. 美感' },
+  { keyword: 'lumber', translation: 'n. 木材' },
+  { keyword: 'surgeon', translation: 'n. 外科医生' },
+  { keyword: 'installation', translation: 'n. 安装' },
+  { keyword: 'silly', translation: 'adj. 傻的' },
+  { keyword: 'primitive', translation: 'adj. 原始的，简陋的' },
+  { keyword: 'bang', translation: 'n. 巨响' },
+  { keyword: 'intellect', translation: 'n. 智力' },
+  { keyword: 'weakness', translation: 'n. 弱点' },
+  { keyword: 'self', translation: 'n. 自己，自我' },
+  { keyword: 'native', translation: 'adj. 本地的，土著的' },
+  { keyword: 'illustrate', translation: 'v. 说明；证明' },
+  { keyword: 'internal', translation: 'adj. 内部的' },
+  { keyword: 'pedal', translation: 'n. 踏板' },
+  { keyword: 'flour', translation: 'n. 面粉' },
+  { keyword: 'extra', translation: 'adj. 额外的' },
+  { keyword: 'basketball', translation: 'n. 篮球' },
+  { keyword: 'observer', translation: 'n. 观察者' },
+  { keyword: 'superiority', translation: 'n. 优越，优等' },
+  { keyword: 'tan', translation: 'n. 棕褐色' },
+  { keyword: 'midday', translation: 'n. 中午，正午' },
+  { keyword: 'line', translation: 'n. 线；路线；排；行' },
+  { keyword: 'flood', translation: 'n. 洪水' },
+  { keyword: 'window', translation: 'n. 窗' },
+  { keyword: 'resignation', translation: 'n. 辞职；辞职书；无奈' },
+  { keyword: 'hang', translation: 'v. 悬挂；吊死；绞死' },
 ]
