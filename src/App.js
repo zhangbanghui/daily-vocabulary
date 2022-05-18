@@ -2,7 +2,7 @@
  * @Author: 张帮辉
  * @LastEditors: 张帮辉
  * @Date: 2022-05-17 20:49:55
- * @LastEditTime: 2022-05-17 22:13:45
+ * @LastEditTime: 2022-05-18 00:03:28
  * @Description: file content
  */
 import { useState } from "react";
@@ -14,17 +14,19 @@ import vocabularyArr from "./vocabulary";
 function App() {
   const [wordArr, setWordArr] = useState(vocabularyArr.slice(0, 50));
   const [page, setPage] = useState(1);
+  const [pageSize, setPageSize] = useState(50)
 
   const [translateType, setTranslateType] = useState("all");
 
   const changeTypeHandler = (e) => {
-    setWordArr(vocabularyArr.slice((page - 1) * 50, page * 50));
+    setWordArr(vocabularyArr.slice((page - 1) * pageSize, page * pageSize));
     setTranslateType(e.target.value);
   };
 
-  const changePageHandler = (page) => {
+  const changePageHandler = (page, pageSize) => {
     setPage(page);
-    setWordArr(vocabularyArr.slice((page - 1) * 50, page * 50));
+    setPageSize(pageSize)
+    setWordArr(vocabularyArr.slice((page - 1) * pageSize, page * pageSize));
   };
 
   const switchHandler = (checked, index) => {
@@ -50,7 +52,7 @@ function App() {
         {wordArr.map((item, index) => {
           const { keyword, translation, checked } = item;
           return (
-            <div className="wordItem">
+            <div className="wordItem" key={keyword}>
               {translateType !== "all" && (
                 <div className="itemSwitch">
                   <Switch
@@ -70,8 +72,8 @@ function App() {
       <div className="paginationBox" style={{ textAlign: "center" }}>
         <Pagination
           current={page}
-          pageSize={50}
-          pageSizeOptions={["50"]}
+          pageSize={pageSize}
+          pageSizeOptions={['20', '30', "50"]}
           onChange={changePageHandler}
           total={vocabularyArr.length}
         />

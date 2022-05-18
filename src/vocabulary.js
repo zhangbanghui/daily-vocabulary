@@ -2,10 +2,69 @@
  * @Author: 张帮辉
  * @LastEditors: 张帮辉
  * @Date: 2022-05-17 20:59:19
- * @LastEditTime: 2022-05-17 22:16:07
+ * @LastEditTime: 2022-05-18 09:04:47
  * @Description: file content
+ */
+/**
+ * { keyword: '', translation: '' },
  */
 export default [
   /* 第一天 */
-  
+  { keyword: 'avoid', translation: 'v. 躲开，避开' },
+  { keyword: 'procedure', translation: 'n. 步骤；程序；手续' },
+  { keyword: 'puppet', translation: 'n. 木偶' },
+  { keyword: 'serious', translation: 'adj. 严重的；认真的，严肃的' },
+  { keyword: 'glossary', translation: 'n. 词汇表' },
+  { keyword: 'telescope', translation: 'n. 望远镜' },
+  { keyword: 'viewpoint', translation: 'n. 观点，视点，角度' },
+  { keyword: 'insight', translation: 'n. 洞察力' },
+  { keyword: 'drastic', translation: 'adj. 极端的；猛烈的' },
+  { keyword: 'brace', translation: 'n. 支柱; v. 支撑' },
+  { keyword: 'secret', translation: 'n. 秘密' },
+  { keyword: 'speculate', translation: 'v. 投机；推测' },
+  { keyword: 'source', translation: 'n. 来源' },
+  { keyword: 'stadium', translation: 'n. 体育场' },
+  { keyword: 'integrate', translation: 'v. 合并' },
+  { keyword: 'debt', translation: 'n. 债务，负债；义务' },
+  { keyword: 'shallow', translation: 'adj. 浅的' },
+  { keyword: 'literature', translation: 'n. 文学，文献' },
+  { keyword: 'building', translation: 'n. 大楼，建筑' },
+  { keyword: 'joy', translation: 'n. 快乐，喜悦' },
+  { keyword: 'additional', translation: 'adj. 额外的；附加的' },
+  { keyword: 'depth', translation: 'n. 纵深；深度' },
+  { keyword: 'hatch', translation: 'v. 孵化' },
+  { keyword: 'inhabit', translation: 'v. 居住于' },
+  { keyword: 'sticky', translation: 'adj. 黏糊糊的' },
+  { keyword: 'concession', translation: 'n. 让步；特许；承认' },
+  { keyword: 'endeavor', translation: 'n. 尝试；努力 v. 尽力' },
+  { keyword: 'evolution', translation: 'n. 进化' },
+  { keyword: 'gasp', translation: 'v. 喘气；渴望 n. 喘气' },
+  { keyword: 'intrigue', translation: 'n. 阴谋 v. 密谋；激起……的兴趣' },
+  { keyword: 'punch', translation: 'v. 用力按；用拳头打击 n. 一拳' },
+  { keyword: 'little', translation: 'adj. 小的；少的' },
+  { keyword: 'disturb', translation: 'v. 打扰；弄乱' },
+  { keyword: 'alleviate', translation: 'v. 减轻；缓和' },
+  { keyword: 'reproach', translation: 'v. 责备；指责 n. 指责' },
+  { keyword: 'despise', translation: 'v. 轻视，蔑视' },
+  { keyword: 'mat', translation: 'n. 垫子；草席' },
+  { keyword: 'recreation', translation: 'n. 娱乐活动；游戏' },
+  { keyword: 'deduce', translation: 'v. 推断' },
+  { keyword: 'periodic', translation: 'adj. 周期的' },
+  { keyword: 'reward', translation: 'n. 奖品，回报 v. 奖励' },
+  { keyword: 'compass', translation: 'n. 指南针' },
+  { keyword: 'swear', translation: 'v. 发誓；咒骂 n.誓言' },
+  { keyword: 'barrier', translation: 'n. 障碍' },
+  { keyword: 'donkey', translation: 'n. 驴；傻瓜' },
+  { keyword: 'academy', translation: 'n. 学院；专科院校；研究院' },
+  { keyword: 'demonstrate', translation: 'v. 论证；演示' },
+  { keyword: 'rid', translation: 'v. 摆脱' },
+  { keyword: 'guarantee', translation: 'v. 保证' },
+  { keyword: 'desk', translation: 'n. 书桌' },
+  { keyword: 'data', translation: 'n. 数据；资料' },
+  { keyword: 'extravagant', translation: 'adj. 奢侈的，无节制的' },
+  { keyword: 'bark', translation: 'v. 狗叫 n. 狗叫声' },
+  { keyword: 'imperative', translation: 'adj. 必要的 n. 命令' },
+  { keyword: 'bandage', translation: 'n. 绷带' },
+  { keyword: 'specialty', translation: 'n. 专长；特点' },
+  { keyword: 'proposal', translation: 'n. 建议；提议；求婚' },
 ]
