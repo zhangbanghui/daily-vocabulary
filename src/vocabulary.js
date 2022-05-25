@@ -93,7 +93,7 @@ const vocabularyArr =  [
   { keyword: 'resignation', translation: 'n. 辞职；辞职书；无奈' },
   { keyword: 'hang', translation: 'v. 悬挂；吊死；绞死' },
 
-  /* 第二天 */
+  /* 第三天 */
   { keyword: 'historian', translation: 'n. 历史学家' },
   { keyword: 'willing', translation: 'adj. 愿意的' },
   { keyword: 'gun', translation: 'n. 枪，炮' },
@@ -121,6 +121,33 @@ const vocabularyArr =  [
   { keyword: 'expend', translation: 'v. 消费； 花费' },
   { keyword: 'salute', translation: 'v. 敬礼 n. 致敬' },
   { keyword: 'jewish', translation: 'adj. 犹太人的' },
+
+  /* 第四天 */
+  { keyword: 'account', translation: 'n. 账户；账号 v. 作出说明；解释' },
+  { keyword: 'norm', translation: 'n. 规范，标准' },
+  { keyword: 'consistent', translation: 'adj. 始终如一的，一致的' },
+  { keyword: 'robber', translation: 'n. 强盗' },
+  { keyword: 'impression', translation: 'n. 印象，感觉' },
+  { keyword: 'bizarre', translation: 'adj. 稀奇古怪的' },
+  { keyword: 'sailor', translation: 'n. 水手，海员' },
+  { keyword: 'supplementary', translation: 'adj. 补充的' },
+  { keyword: 'strategic', translation: 'adj. 战略上的' },
+  { keyword: 'advertisement', translation: 'n. 广告' },
+  { keyword: 'inevitable', translation: 'adj. 不可避免的' },
+  { keyword: 'labor', translation: 'n. 劳工' },
+  { keyword: 'notable', translation: 'adj. 值得注意的' },
+  { keyword: 'reclaim', translation: 'v. 开垦' },
+  { keyword: 'analytic', translation: 'adj. 分析法的；分析的' },
+  { keyword: 'television', translation: 'n. 电视机' },
+  { keyword: 'indicate', translation: 'v. 表明，指示' },
+  { keyword: 'shelter', translation: 'n. 避难所' },
+  { keyword: 'absence', translation: 'n. 缺乏；缺席' },
+  { keyword: 'innocent', translation: 'adj. 无辜的；清白的；天真的；单纯的' },
+  { keyword: 'compel', translation: 'v. 强迫' },
+  { keyword: 'fascinate', translation: 'v. 使着迷' },
+  { keyword: 'unbearable', translation: 'adj. 不可忍受的' },
+  { keyword: 'aeroplane', translation: 'n. 飞机' },
+  { keyword: 'decent', translation: 'adj. 像样的；体面的；得体的' },
 ]
 
 export default vocabularyArr
