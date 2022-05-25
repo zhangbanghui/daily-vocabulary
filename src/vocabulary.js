@@ -1,14 +1,7 @@
-/*
- * @Author: 张帮辉
- * @LastEditors: 张帮辉
- * @Date: 2022-05-17 20:59:19
- * @LastEditTime: 2022-05-18 23:13:07
- * @Description: file content
- */
 /**
  * { keyword: '', translation: '' },
  */
-export default [
+const vocabularyArr =  [
   /* 第一天 */
   { keyword: 'avoid', translation: 'v. 躲开，避开' },
   { keyword: 'procedure', translation: 'n. 步骤；程序；手续' },
@@ -129,3 +122,5 @@ export default [
   { keyword: 'salute', translation: 'v. 敬礼 n. 致敬' },
   { keyword: 'jewish', translation: 'adj. 犹太人的' },
 ]
+
+export default vocabularyArr

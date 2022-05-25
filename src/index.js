@@ -1,10 +1,3 @@
-/*
- * @Author: 张帮辉
- * @LastEditors: 张帮辉
- * @Date: 2022-05-17 20:49:55
- * @LastEditTime: 2022-05-17 21:45:00
- * @Description: file content
- */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
