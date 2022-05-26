@@ -148,6 +148,32 @@ const vocabularyArr =  [
   { keyword: 'unbearable', translation: 'adj. 不可忍受的' },
   { keyword: 'aeroplane', translation: 'n. 飞机' },
   { keyword: 'decent', translation: 'adj. 像样的；体面的；得体的' },
+
+  /* 第五天 */
+  { keyword: 'scan', translation: 'v. 扫描；细看；浏览' },
+  { keyword: 'stoop', translation: 'v. 弯腰；屈从 n. 弯腰；屈服' },
+  { keyword: 'proof', translation: 'n. 证据，证明' },
+  { keyword: 'overlook', translation: 'v. 忽视；眺望；宽容 n. 忽视' },
+  { keyword: 'cattle', translation: 'n. 牛' },
+  { keyword: 'support', translation: 'v. 支持；支撑；供养 n. 支持；支撑；供养' },
+  { keyword: 'junction', translation: 'n. 连接' },
+  { keyword: 'vocal', translation: 'n. 声音的' },
+  { keyword: 'barely', translation: 'adv. 几乎不；仅仅；勉强才能' },
+  { keyword: 'funny', translation: 'adj. 有趣的；奇怪的 n. 笑话' },
+  { keyword: 'daring', translation: 'adj. 大胆的；勇敢的 n. 冒险' },
+  { keyword: 'immigrant', translation: 'n. 移民' },
+  { keyword: 'bill', translation: 'n. 议案；账单；纸币；钞票' },
+  { keyword: 'dissipate', translation: 'v. 驱散；浪费' },
+  { keyword: 'reliability', translation: 'n. 可靠性' },
+  { keyword: 'shrug', translation: 'v. 耸肩 n. 耸肩' },
+  { keyword: 'aggressive', translation: 'adj. 有侵略性的；好斗的；攻击性的' },
+  { keyword: 'tram', translation: 'n. 有轨电车；矿车，缆车' },
+  { keyword: 'judge', translation: 'v. 评价；判断 n. 法官；裁判' },
+  { keyword: 'everyday', translation: 'adj. 日常的，每天的' },
+  { keyword: 'acceptable', translation: 'adj. 可接受的；认同的' },
+  { keyword: 'bronze', translation: 'n. 青铜色' },
+  { keyword: 'verbal', translation: 'adj. 言语的，口头的' },
+
 ]
 
 export default vocabularyArr
