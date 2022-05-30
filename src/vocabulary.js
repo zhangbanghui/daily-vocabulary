@@ -174,6 +174,36 @@ const vocabularyArr =  [
   { keyword: 'bronze', translation: 'n. 青铜色' },
   { keyword: 'verbal', translation: 'adj. 言语的，口头的' },
 
+  /* 第六天 */
+  { keyword: 'competition', translation: 'n. 比赛；竞争' },
+  { keyword: 'hall', translation: 'n. 会堂，礼堂；门厅' },
+  { keyword: 'bath', translation: 'n. 洗澡；洗澡水；鱼缸 v. 给...洗澡' },
+  { keyword: 'absolutely', translation: 'adj. 绝对地；完全地；独立地' },
+  { keyword: 'cordial', translation: 'adj. 热情友好的 n. 兴奋剂，补品' },
+  { keyword: 'inhabitant', translation: 'n. 居民' },
+  { keyword: 'addition', translation: 'n. 加法；添加；附加物' },
+  { keyword: 'entire', translation: 'adj. 完整的；全面的；纯正的' },
+  { keyword: 'generation', translation: 'n. 一代；一代人；产生' },
+  { keyword: 'resign', translation: 'v. 辞职；屈从' },
+  { keyword: 'corner', translation: 'n. 角落；困境；边远地区' },
+  { keyword: 'increasingly', translation: 'adj. 越来越多的' },
+  { keyword: 'accelerate', translation: 'v. 加速；提前' },
+  { keyword: 'rich', translation: 'adj. 富有的；丰富的；浓厚的；昂贵的' },
+  { keyword: 'arrive', translation: 'v. 到达' },
+  { keyword: 'slave', translation: 'n. 奴隶；苦工' },
+  { keyword: 'late', translation: 'adj. 吃的；已故的 adv. 迟，晚；最近地' },
+  { keyword: 'lawn', translation: 'n. 草坪' },
+  { keyword: 'unhappy', translation: 'adj. 不幸福的' },
+  { keyword: 'begin', translation: 'v. 开始' },
+  { keyword: 'shame', translation: 'n. 羞愧；耻辱；遗憾；内疚 v. 使羞愧' },
+  { keyword: 'textbook', translation: 'n. 教科书' },
+  { keyword: 'captive', translation: 'adj. 被俘虏的' },
+  { keyword: 'volume', translation: 'n. 音量' },
+  { keyword: 'roar', translation: 'n. 吼叫声；咆哮' },
+  { keyword: 'suspicion', translation: 'n. 怀疑' },
+  { keyword: 'into', translation: 'prep. 进入' },
+  { keyword: 'medieval', translation: 'adj. 中世纪的' },
+
 ]
 
 export default vocabularyArr
